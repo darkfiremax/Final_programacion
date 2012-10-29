@@ -1,0 +1,31 @@
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+#boo1 {
+	position: absolute;
+	left: 230px;
+	top: 62px;
+	width: 682px;
+	height: 84px;
+	z-index: 1;
+}
+#boo2 {
+	position: absolute;
+	left: 323px;
+	top: 56px;
+	width: 139px;
+	height: 37px;
+	z-index: 2;
+}
+.buton2{
+	width: 133px;
+	height: 31px;
+	font-family: "Times New Roman", Times, serif;
+	background:#FF0;
+	border:#000;
+	border-radius:1;
+	padding:1;
+	}
